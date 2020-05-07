@@ -1,0 +1,4 @@
+Newtone:
+x1 = 2,9646313
+x2 = 0,62553567
+3 iterations
